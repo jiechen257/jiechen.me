@@ -31,7 +31,7 @@ const { y: scroll } = useWindowScroll()
       <div class="spacer" />
       <div class="right" print:op0>
 
-        <a href="https://becase.top" target="_blank" title="Blog">
+        <a href="https://blog.becase.top" target="_blank" title="Blog">
           Blog
         </a>
         <a href="https://github.com/jiechen257" target="_blank" title="GitHub">

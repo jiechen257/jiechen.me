@@ -45,3 +45,10 @@ onKeyStroke('Escape', (e) => {
     </div>
   </Transition>
 </template>
+
+<style>
+html,
+body {
+  font-family: 'Josefin Sans';
+}
+</style>

@@ -21,10 +21,6 @@ ACGM enthusiast, master of MOBA, board games aficionado 🤖. I love music, play
 
 Detest fan circles, avoid female fighting, **freedom above all, long live understanding!**
 
-## Some Collections
-
-[Click here](/resources)
-
 ## Some Tags
 
 (👇 Remember to click on the little arrow on the left...)

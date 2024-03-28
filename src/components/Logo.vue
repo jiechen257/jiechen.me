@@ -1,6 +1,6 @@
 <template>
   <div class="typing">
-    You're welcome！
+    Glad to see u tho!
   </div>
 </template>
 
@@ -11,7 +11,7 @@
     Monaco,
     monospace;
   font-size: 1rem;
-  width: 18ch;
+  width: 20ch;
   white-space: nowrap;
   overflow: hidden;
   border-right: 0.05em solid;

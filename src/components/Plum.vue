@@ -1,10 +1,15 @@
 <script setup lang='ts'>
 import type { Fn } from '@vueuse/core'
+import { isDark } from '../logics'
 
 const r180 = Math.PI
 const r90 = Math.PI / 2
 const r15 = Math.PI / 12
-const color = '#88888825'
+
+const lightColor = '#88888825'
+const darkColor = '#aaaaaa25'
+
+const color = ref('')
 
 const el = ref<HTMLCanvasElement | null>(null)
 
@@ -15,6 +20,18 @@ const start = ref<Fn>(() => {})
 const MIN_BRANCH = 30
 const len = ref(6)
 const stopped = ref(false)
+
+watch(isDark, () => {
+  color.value = isDark.value ? darkColor : lightColor
+  stopped.value = true
+  start.value()
+})
+
+// watchEffect(() => {
+//   color.value = isDark.value ? darkColor : lightColor
+//   stopped.value = true
+//   start.value()
+// })
 
 function initCanvas(canvas: HTMLCanvasElement, width = 400, height = 400, _dpi?: number) {
   const ctx = canvas.getContext('2d')!
@@ -41,6 +58,7 @@ function polar2cart(x = 0, y = 0, r = 0, theta = 0) {
 }
 
 onMounted(async () => {
+  color.value = isDark.value ? darkColor : lightColor
   const canvas = el.value!
   const { ctx } = initCanvas(canvas, size.width, size.height)
   const { width, height } = canvas
@@ -118,7 +136,7 @@ onMounted(async () => {
     controls.pause()
     ctx.clearRect(0, 0, width, height)
     ctx.lineWidth = 1
-    ctx.strokeStyle = color
+    ctx.strokeStyle = color.value
     prevSteps = []
     steps = [
       () => step(randomMiddle() * size.width, -5, r90),

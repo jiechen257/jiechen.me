@@ -27,12 +27,6 @@ watch(isDark, () => {
   start.value()
 })
 
-// watchEffect(() => {
-//   color.value = isDark.value ? darkColor : lightColor
-//   stopped.value = true
-//   start.value()
-// })
-
 function initCanvas(canvas: HTMLCanvasElement, width = 400, height = 400, _dpi?: number) {
   const ctx = canvas.getContext('2d')!
 

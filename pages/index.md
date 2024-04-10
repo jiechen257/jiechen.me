@@ -15,7 +15,10 @@ plum: true
 
 ## 多讲几句
 
+<div style="display: flex">
 首先是名铲屎官，供养一只蓝白英短
+<img src="https://cdn.jsdelivr.net/gh/jiechen257/personal-gallery@main/img/202404101543046.jpg" style="width: 20px; height: 20px; margin: 2px 0 0 5px;border-radius: 4px;">
+</div>
 
 其次是 `Front-End Developer`（~~天天被 cue "前端已死"😅~~），目标是 `Independent Developer`，业余时间主要逛 [推特](https://twitter.com/jiechen257) 和 [bilibili](https://bilibili.com)
 

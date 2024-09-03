@@ -11,7 +11,7 @@ plum: true
 
 ## 一句话
 
-ENFJ 人格，来自长沙
+ENFJ 人格，base 杭州
 
 ## 多讲几句
 

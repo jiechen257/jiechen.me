@@ -30,14 +30,13 @@ const { y: scroll } = useWindowScroll()
     <nav class="nav">
       <div class="spacer" />
       <div class="right" print:op0>
-
-        <a href="https://blog.becase.top" target="_blank" title="Blog">
+        <a target="_blank" title="Blog">
           Blog
         </a>
-        <a href="https://github.com/jiechen257" target="_blank" title="GitHub">
+        <a target="_blank" title="GitHub">
           <div i-uil-github-alt />
         </a>
-        <a href="https://twitter.com/jiechen257" target="_blank" title="Twitter">
+        <a target="_blank" title="Twitter">
           <div i-ri-twitter-x-fill />
         </a>
         <ToggleTheme />

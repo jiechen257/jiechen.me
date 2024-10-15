@@ -11,7 +11,7 @@ plum: true
 
 ## One-liner
 
-Post-2000s ENFJ personality, hailing from Changsha.
+ENFJ personality, base Hangzhou.
 
 ## A few more words
 
@@ -54,6 +54,6 @@ Next, an ACGM player, passionate about music, skilled at playing 🎸, always re
 </details>
 <details style="padding-left:12px;padding-bottom:10px">
   <summary>Goals</summary>
-  <p style="font-size:12px; line-height:13px"> 🎹 Electronic piano player</p>
   <p style="font-size:12px; line-height:13px"> 🌅 A trip to Tibet, a trip to Scandinavia</p>
+  <p style="font-size:12px; line-height:13px"> 🎹 Retire early</p>
 </details>

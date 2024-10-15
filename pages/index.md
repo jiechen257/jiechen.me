@@ -32,7 +32,7 @@ ENFJ 人格，base 杭州
   <summary>ACGM玩家</summary>
   <p style="font-size:12px; line-height:13px"> 🎶 民谣 & 浪漫摇滚</p>
   <p style="font-size:12px; line-height:13px"> 📖 江南(杨志爬)、韩寒、还有意林</p>
-  <p style="font-size:12px; line-height:13px"> 📺 宫崎骏、新海诚、若森数字</p>
+  <p style="font-size:12px; line-height:13px"> 📺 宫崎骏 & 若森</p>
   <p style="font-size:12px; line-height:13px"> 🎮 top-king，shy sensi</p>
   <p style="font-size:12px; line-height:13px"> 🎥 豆瓣 top 250、美剧(老友记)</p>
 </details>
@@ -55,5 +55,5 @@ ENFJ 人格，base 杭州
 <details style="padding-left:12px;padding-bottom:10px">
   <summary>小目标</summary>
   <p style="font-size:12px; line-height:13px"> 🎹 电子钢琴  </p>
-  <p style="font-size:12px; line-height:13px"> 🌅 一趟西藏，一趟北欧 </p>
+  <p style="font-size:12px; line-height:13px"> 🌅 一趟新疆，一趟北欧 </p>
 </details>

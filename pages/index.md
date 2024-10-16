@@ -54,6 +54,6 @@ ENFJ 人格，base 杭州
 </details>
 <details style="padding-left:12px;padding-bottom:10px">
   <summary>小目标</summary>
-  <p style="font-size:12px; line-height:13px"> 🎹 电子钢琴  </p>
   <p style="font-size:12px; line-height:13px"> 🌅 一趟新疆，一趟北欧 </p>
+  <p style="font-size:12px; line-height:13px"> 🎹 早日退休  </p>
 </details>

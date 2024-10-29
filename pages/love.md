@@ -1,7 +1,7 @@
 ---
 title: 试着刻画爱情
 abbrlink: 65173
-date: 2024-04-14T16:00:00.000+00:00
+date: 2024-02-14
 duration: 15min
 thumbnail: "https://cdn.jsdelivr.net/gh/jiechen257/personal-gallery@main/img/202404142344886.png"
 ---
@@ -173,6 +173,6 @@ thumbnail: "https://cdn.jsdelivr.net/gh/jiechen257/personal-gallery@main/img/202
 
 “他日无名街头你们再次相遇，希望能互道一声问候（你会吗？”
 
-End. --- Last edited on 4.15
+End. --- Last edited on 2.15
 
 </details>
